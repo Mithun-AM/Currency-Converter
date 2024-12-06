@@ -4,7 +4,7 @@ A simple currency converter web application that allows users to convert an amou
 
 ## Deployment
 
-Here is the link to the deployed version of the game:  
+Here is the link to the deployed version:  
 [Currency Converter - GitHub Pages](https://mithun-am.github.io/Currency-Converter/)
 
 ## Features
